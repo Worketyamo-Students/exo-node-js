@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "haruna",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "alice",
+    "role": "user,"
+  },
+  {
+    "id": null,
+    "name": "valdini",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "name": "valdini",
+    "role": "user"
+  },
+  {
+    "name": "denise",
+    "role": "user",
+    "id": 5
+  },
+  {
+    "name": "valdini",
+    "role": "administrateur",
+    "id": 6
+  }
+]
